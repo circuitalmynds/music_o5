@@ -1,5 +1,132 @@
 {
     "available_space": true,
-    "content": [],
-    "total_size": 0.0
+    "content": [
+        {
+            "id": "VTd2aXLTA84",
+            "name": "Benjamin Britten - Four Sea Interludes from \uff02Peter Grimes\uff02 [VTd2aXLTA84].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Benjamin Britten - Four Sea Interludes from \uff02Peter Grimes\uff02 [VTd2aXLTA84].mp4",
+            "size": 25.781951,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Benjamin Britten - Four Sea Interludes from \uff02Peter Grimes\uff02 [VTd2aXLTA84].mp4"
+        },
+        {
+            "id": "HJMYPaSvJxc",
+            "name": "Venanzio Rauzzini (1746-1810) - Sonata (I) in C (1786) [HJMYPaSvJxc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Venanzio Rauzzini (1746-1810) - Sonata (I) in C (1786) [HJMYPaSvJxc].mp4",
+            "size": 54.134854999999995,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Venanzio Rauzzini (1746-1810) - Sonata (I) in C (1786) [HJMYPaSvJxc].mp4"
+        },
+        {
+            "id": "N-qZEn0Qr3U",
+            "name": "Webley Edwards - Hawaiian Shores [N-qZEn0Qr3U].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Webley Edwards - Hawaiian Shores [N-qZEn0Qr3U].mp4",
+            "size": 82.669399,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Webley Edwards - Hawaiian Shores [N-qZEn0Qr3U].mp4"
+        },
+        {
+            "id": "KC5KkabxU5I",
+            "name": "AMPARO OCHOA INTERPRETA \uff02EL OTRO M\u00c9XICO\uff02 - 1988 [KC5KkabxU5I].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/AMPARO OCHOA INTERPRETA \uff02EL OTRO M\u00c9XICO\uff02 - 1988 [KC5KkabxU5I].mp4",
+            "size": 58.916019,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/AMPARO OCHOA INTERPRETA \uff02EL OTRO M\u00c9XICO\uff02 - 1988 [KC5KkabxU5I].mp4"
+        },
+        {
+            "id": "eJ9Z10MsRLc",
+            "name": "Carl von Weber - Grand duo concertant, Op.48 [eJ9Z10MsRLc].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Carl von Weber - Grand duo concertant, Op.48 [eJ9Z10MsRLc].mp4",
+            "size": 70.51093,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Carl von Weber - Grand duo concertant, Op.48 [eJ9Z10MsRLc].mp4"
+        },
+        {
+            "id": "H8FCHmikV_A",
+            "name": "Luigi Gatti - Serenata in D-major (17\uff1f\uff1f) [H8FCHmikV_A].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Luigi Gatti - Serenata in D-major (17\uff1f\uff1f) [H8FCHmikV_A].mp4",
+            "size": 95.03719699999999,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Luigi Gatti - Serenata in D-major (17\uff1f\uff1f) [H8FCHmikV_A].mp4"
+        },
+        {
+            "id": "OaX4Cc3IOds",
+            "name": "Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u0332\u2013 \u0332C\u0332r\u0332y\u0332! T\u0332e\u0332n\u0332d\u0332e\u0332r (\u03321\u03329\u03325\u03329\u0332)\u0332 [OaX4Cc3IOds].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u0332\u2013 \u0332C\u0332r\u0332y\u0332! T\u0332e\u0332n\u0332d\u0332e\u0332r (\u03321\u03329\u03325\u03329\u0332)\u0332 [OaX4Cc3IOds].mp4",
+            "size": 69.32065899999999,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Yuse\u0332f\u0332 L\u0332a\u0332t\u0332e\u0332e\u0332f \u0332\u2013 \u0332C\u0332r\u0332y\u0332! T\u0332e\u0332n\u0332d\u0332e\u0332r (\u03321\u03329\u03325\u03329\u0332)\u0332 [OaX4Cc3IOds].mp4"
+        },
+        {
+            "id": "SpercUbiL8M",
+            "name": "FANTASIA ~ The Swan of Tuonela (Deleted Sequence) [SpercUbiL8M].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/FANTASIA ~ The Swan of Tuonela (Deleted Sequence) [SpercUbiL8M].mp4",
+            "size": 62.831686999999995,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/FANTASIA ~ The Swan of Tuonela (Deleted Sequence) [SpercUbiL8M].mp4"
+        },
+        {
+            "id": "R8mUi_RE5QY",
+            "name": "\u00c9mile Waldteufel - Rose und G\u00e4nsebl\u00fcmchen, Walzer (Rose et marguerites) Op.141 [R8mUi_RE5QY].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/\u00c9mile Waldteufel - Rose und G\u00e4nsebl\u00fcmchen, Walzer (Rose et marguerites) Op.141 [R8mUi_RE5QY].mp4",
+            "size": 46.479431,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/\u00c9mile Waldteufel - Rose und G\u00e4nsebl\u00fcmchen, Walzer (Rose et marguerites) Op.141 [R8mUi_RE5QY].mp4"
+        },
+        {
+            "id": "lSQ-6xU8mPA",
+            "name": "Niagara - Je Dois M'En Aller (Clip Officiel Remasteris\u00e9) [lSQ-6xU8mPA].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Niagara - Je Dois M'En Aller (Clip Officiel Remasteris\u00e9) [lSQ-6xU8mPA].mp4",
+            "size": 19.144668,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Niagara - Je Dois M'En Aller (Clip Officiel Remasteris\u00e9) [lSQ-6xU8mPA].mp4"
+        },
+        {
+            "id": "YjOD2MNy924",
+            "name": "Lord Kitchener - King of Calypso (1965) [YjOD2MNy924].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Lord Kitchener - King of Calypso (1965) [YjOD2MNy924].mp4",
+            "size": 86.77840499999999,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Lord Kitchener - King of Calypso (1965) [YjOD2MNy924].mp4"
+        },
+        {
+            "id": "RUmPhZpoFZU",
+            "name": "Django Reinhardt - rare 4-song duet session with pianist Ivon de Bie (audio only) [RUmPhZpoFZU].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Django Reinhardt - rare 4-song duet session with pianist Ivon de Bie (audio only) [RUmPhZpoFZU].mp4",
+            "size": 18.418401,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Django Reinhardt - rare 4-song duet session with pianist Ivon de Bie (audio only) [RUmPhZpoFZU].mp4"
+        },
+        {
+            "id": "6Q2CgRS_-q8",
+            "name": "Pablo Milan\u00e9s - Querido Pablo   (1985) [6Q2CgRS_-q8].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Pablo Milan\u00e9s - Querido Pablo   (1985) [6Q2CgRS_-q8].mp4",
+            "size": 86.191986,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Pablo Milan\u00e9s - Querido Pablo   (1985) [6Q2CgRS_-q8].mp4"
+        },
+        {
+            "id": "CZVUzho-nok",
+            "name": "Yvonne  Elliman  --   If  I  Can\u00b4t  Have  You   [[  Official  Video  ]]  HD [CZVUzho-nok].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Yvonne  Elliman  --   If  I  Can\u00b4t  Have  You   [[  Official  Video  ]]  HD [CZVUzho-nok].mp4",
+            "size": 22.762216,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Yvonne  Elliman  --   If  I  Can\u00b4t  Have  You   [[  Official  Video  ]]  HD [CZVUzho-nok].mp4"
+        },
+        {
+            "id": "05FuKOj7kg4",
+            "name": "Feio [05FuKOj7kg4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Feio [05FuKOj7kg4].mp4",
+            "size": 17.231212,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Feio [05FuKOj7kg4].mp4"
+        },
+        {
+            "id": "7BDP3xjSzow",
+            "name": "Siegfried Translateur - Nur wer die Sehnsucht kennt, Walzertr\u00e4umerei          Op. 161 [7BDP3xjSzow].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Siegfried Translateur - Nur wer die Sehnsucht kennt, Walzertr\u00e4umerei          Op. 161 [7BDP3xjSzow].mp4",
+            "size": 24.160494,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Siegfried Translateur - Nur wer die Sehnsucht kennt, Walzertr\u00e4umerei          Op. 161 [7BDP3xjSzow].mp4"
+        },
+        {
+            "id": "SWM4MOjhlw4",
+            "name": "Gigliola Cinquetti Eurovision Song Contest Winner 1964 [SWM4MOjhlw4].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Gigliola Cinquetti Eurovision Song Contest Winner 1964 [SWM4MOjhlw4].mp4",
+            "size": 10.019281999999999,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Gigliola Cinquetti Eurovision Song Contest Winner 1964 [SWM4MOjhlw4].mp4"
+        },
+        {
+            "id": "z0A_Ik6TTn0",
+            "name": "Charles Mingus - Mingus Ah Um (1959) (Full Album) [z0A_Ik6TTn0].mp4",
+            "path": "/home/alanmatzumiya/Videos/container/o5/videos/Charles Mingus - Mingus Ah Um (1959) (Full Album) [z0A_Ik6TTn0].mp4",
+            "size": 64.512371,
+            "url": "https://github.com/circuitalmynds/music_o5/raw/main/videos/Charles Mingus - Mingus Ah Um (1959) (Full Album) [z0A_Ik6TTn0].mp4"
+        }
+    ],
+    "total_size": 914.901163
 }
